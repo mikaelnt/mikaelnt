@@ -1,4 +1,4 @@
-# Hi, I'm Mikael 👋
+# Hi, I'm Michael Oliver 👋
 
 I'm training as a London-based **data journalist and data visualisation specialist**, turning data into clear, well-sourced stories.
 
